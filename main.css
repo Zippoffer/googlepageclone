@@ -1,0 +1,80 @@
+/*#formfield {
+    max-width: 70%;
+    margin-left: 400px;
+}*/
+
+input {
+    position: center;
+    width: 50%;
+    height: 30px;
+}
+
+#logo {
+    margin-left: 180px;
+    margin-top: 130px;
+}
+
+center {
+    display: block;
+}
+
+.binput {
+    max-height: 56px;
+    line-height: 27px;
+    max-width: 104px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    position: relative;
+    display: inline;
+    float: right;
+    top: -52px;
+    /*left: 1000px;*/
+}
+
+a {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+}
+
+#squares {
+    position: relative;
+    background-image: url(images/squares.png);
+    top: -55px;
+    width: 22px;
+    height: 22px;
+    margin: 0 6px 0 8px;
+}
+
+#onered {
+    height: 20px;
+    max-width: 20px;
+    border: 1px solid black;
+    border-radius: 200%;
+    background-color: #FB4534;
+    margin: 0 6px 0 8px;
+    /*color: white;*/
+    text-align: center;
+}
+
+/*#one {
+    position: relative;
+   left: 2px;
+}*/
+
+#bigc {
+    height: 30px;
+    max-width: 30px;
+    border: 1px solid black;
+    border-radius: 200%;
+    margin: 0 6px 0 8px;
+    background-color: #6B737F;
+    color: white;
+    text-align: center;
+}
